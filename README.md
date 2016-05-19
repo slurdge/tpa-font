@@ -1,2 +1,4 @@
 # tpa-font
-central component for the management of fonts
+central component for the management of the INGMe fonts.
+
+ 
